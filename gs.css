@@ -1,0 +1,119 @@
+h5{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 14px;
+}
+.CHO{
+    font-family: 'Times New Roman', Times, serif;
+    color: red;
+    font-size: 16px;
+}
+.CHO:hover{
+    background-color: palevioletred;
+}
+.SIL{
+    font-family: 'Times New Roman', Times, serif;
+    color: blue;
+    font-size: 16px;
+}
+.SIL:hover{
+    background-color: greenyellow;
+}
+.PRE{
+    font-family: 'Times New Roman', Times, serif;
+    color: palevioletred;
+    font-size: 16px;
+}
+.PRE:hover{
+    background-color: plum;
+}
+.NIC{
+    font-family: 'Times New Roman', Times, serif;
+    color: tomato;
+    font-size: 16px;
+}
+.NIC:hover{
+    background-color: turquoise;
+}
+.directions{
+    font-style: italic;
+    background-color: lightpink;
+}
+.directions:hover {
+    
+    background-color: black;
+    color: white;
+}
+.speech{ 
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+    font-display: black;
+    text-decoration: solid;
+}
+.chorus{
+    text-indent: 100px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: medium;
+}
+.chr{
+    text-indent: 100px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: medium;
+}
+.JUD{
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(10, 255, 173);
+    font-size: 16px;
+}
+.JUD:hover{
+    background-color: rgba(85, 20, 20, 0.314);
+}
+.PLA{
+    font-family: 'Times New Roman', Times, serif;
+    color: brown;
+    font-size: 16px;
+}
+.PLA:hover{
+    background-color: burlywood;
+}
+.FOR{
+    font-family: 'Times New Roman', Times, serif;
+    color: lightseagreen;
+    font-size: 16px;
+}
+.FOR:hover{
+    background-color: lightsteelblue;
+}
+.JUR{
+    font-family: 'Times New Roman', Times, serif;
+    color: khaki;
+    font-size: 16px;
+}
+.JUR:hover{
+    background-color:crimson
+}
+.BRI{
+    font-family: 'Times New Roman', Times, serif;
+    color: blueviolet;
+    font-size: 16px;  
+}
+.BRI:hover{
+    background-color:lightskyblue;
+}
+table,td,th{
+    border: 2px solid;
+
+}
+th,td{
+    padding: 10px;
+}
+.table1{
+
+    border-collapse: collapse;
+    /* padding: 3px; */
+    background-color: forestgreen;
+    padding: auto;
+    text-align: center;
+    box-shadow: 15px 15px 10px gray ;
+}
