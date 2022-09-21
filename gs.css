@@ -1,6 +1,6 @@
 h5{
     font-family: 'Times New Roman', Times, serif;
-    font-size: 14px;
+    font-size: 15px;
 }
 .CHO{
     font-family: 'Times New Roman', Times, serif;
@@ -101,19 +101,18 @@ h5{
 .BRI:hover{
     background-color:lightskyblue;
 }
-table,td,th{
-    border: 2px solid;
 
-}
-th,td{
-    padding: 10px;
-}
-.table1{
-
-    border-collapse: collapse;
-    /* padding: 3px; */
-    background-color: forestgreen;
-    padding: auto;
+table.table
+{
+    color:darkmagenta;
     text-align: center;
-    box-shadow: 15px 15px 10px gray ;
+    padding: 60px;
+    margin:20px;
+}
+table, th, td {
+    border: 2px dotted;
+  }
+tr:nth-child(odd)
+{
+    background-color: lightskyblue;
 }
