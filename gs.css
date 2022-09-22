@@ -109,10 +109,21 @@ h5{
     color: blueviolet;
     font-size: 16px;
 }
+.mer:hover{
+    background-color: lightseagreen;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+    border-style: solid;
+}
 .the{
     font-family: 'Times New Roman', Times, serif;
     color: khaki;
     font-size: 16px;
+}
+.the:hover{
+    background-color: lightgrey;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+    border-style: solid;
+
 }
 .cym{
     font-family: 'Times New Roman', Times, serif;
