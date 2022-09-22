@@ -43,6 +43,9 @@ h5{
     background-color: black;
     color: white;
 }
+.song{
+    font-style: italic;
+}
 .speech{ 
     font-size: medium;
     font-family: 'Times New Roman', Times, serif;
@@ -101,7 +104,21 @@ h5{
 .BRI:hover{
     background-color:lightskyblue;
 }
-
+.mer{
+    font-family: 'Times New Roman', Times, serif;
+    color: blueviolet;
+    font-size: 16px;
+}
+.the{
+    font-family: 'Times New Roman', Times, serif;
+    color: khaki;
+    font-size: 16px;
+}
+.cym{
+    font-family: 'Times New Roman', Times, serif;
+    color: darkgreen;
+    font-size: 16px;
+}
 table.table
 {
     color:darkmagenta;
